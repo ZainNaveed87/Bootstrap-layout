@@ -1,6 +1,23 @@
+.container {
+    width: 100%;
+}
+
+.col-md-4 {
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+
 .mm {
     margin-left: 100px;
     background-color: transparent;
     width: 180px;
     height: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
